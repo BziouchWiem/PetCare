@@ -1,0 +1,28 @@
+﻿@model PetCare.Models.Proprietaire
+
+@{
+    ViewData["Title"] = "Supprimer un Propriétaire";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <h4>Êtes-vous sûr de vouloir supprimer ce propriétaire ?</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Nom</dt>
+            <dd class="col-sm-10">@Model.Nom</dd>
+            <dt class="col-sm-2">Adresse</dt>
+            <dd class="col-sm-10">@Model.Adresse</dd>
+            <dt class="col-sm-2">Téléphone</dt>
+            <dd class="col-sm-10">@Model.Telephone</dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Supprimer</button>
+            <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+        </form>
+    </div>
+</div>

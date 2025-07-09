@@ -1,0 +1,17 @@
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.DAL.deps.json
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.DAL.runtimeconfig.json
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.DAL.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.DAL.pdb
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.Models.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\bin\Debug\net8.0\PetCare.Models.pdb
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.csproj.AssemblyReference.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.AssemblyInfoInputs.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.AssemblyInfo.cs
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare..A477B684.Up2Date
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\refint\PetCare.DAL.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.pdb
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\PetCare.DAL.genruntimeconfig.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.DAL\obj\Debug\net8.0\ref\PetCare.DAL.dll

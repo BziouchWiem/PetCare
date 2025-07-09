@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.pl\\petcare.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\petcare.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\petcare.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC5395-F4CB-4D82-8844-CB7F85401DFB}|PetCare.Models\\PetCare.Models.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC5395-F4CB-4D82-8844-CB7F85401DFB}|PetCare.Models\\PetCare.Models.csproj|solutionrelative:petcare.models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CA0D5F-889F-4EDF-916F-874CF014F494}|PetCare.BLL\\PetCare.BLL.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.bll\\petcare.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1CA0D5F-889F-4EDF-916F-874CF014F494}|PetCare.BLL\\PetCare.BLL.csproj|solutionrelative:petcare.bll\\petcare.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\typeanimal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\typeanimal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\animal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\animal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\animal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\proprietaire\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\proprietaire\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\proprietaire\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\proprietaire\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\proprietaire\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\proprietaire\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\proprietaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\proprietaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\veterinaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\veterinaire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.web\\views\\consultation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8A211A-2B11-4EB2-885F-5156A9D94560}|PetCare.Web\\PetCare.Web.csproj|solutionrelative:petcare.web\\views\\consultation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.pl\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\petcare.pl\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\animalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|c:\\users\\wiem\\desktop\\diinfo\\projet .net\\petcare\\petcare.pl\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864C70E6-7944-4E5D-89EE-2B5690D34A5D}|PetCare.PL\\PetCare.PL.csproj|solutionrelative:petcare.pl\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetCare.PL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.cs",
+              "RelativeToolTip": "PetCare.PL\\MainForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:44:19.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\TypeAnimal\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\TypeAnimal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\TypeAnimal\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\TypeAnimal\\Index.cshtml",
+              "ViewState": "AgIAANsAAAAAAAAAAIBJwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T22:40:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Veterinaire\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Veterinaire\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Veterinaire\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Veterinaire\\Index.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T22:40:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:53:42.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:54:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Models\\Animal.cs",
+              "RelativeDocumentMoniker": "PetCare.Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Models\\Animal.cs",
+              "RelativeToolTip": "PetCare.Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:40:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetCare.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\PetCare.PL.csproj",
+              "RelativeDocumentMoniker": "PetCare.PL\\PetCare.PL.csproj",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\PetCare.PL.csproj",
+              "RelativeToolTip": "PetCare.PL\\PetCare.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T21:35:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.cs",
+              "RelativeDocumentMoniker": "PetCare.PL\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.cs [Design]",
+              "RelativeToolTip": "PetCare.PL\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:35:31.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Proprietaire\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Proprietaire\\Index.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwKwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T22:40:32.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnimalForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetCare.PL\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\AnimalForm.cs",
+              "RelativeToolTip": "PetCare.PL\\AnimalForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:27:53.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Proprietaire\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Create.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Proprietaire\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:55:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Proprietaire\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Delete.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Proprietaire\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:55:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Proprietaire\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Proprietaire\\Edit.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Proprietaire\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:55:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetCare.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.BLL\\PetCare.BLL.csproj",
+              "RelativeDocumentMoniker": "PetCare.BLL\\PetCare.BLL.csproj",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.BLL\\PetCare.BLL.csproj",
+              "RelativeToolTip": "PetCare.BLL\\PetCare.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T11:32:55.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Animal\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Animal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Animal\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Animal\\Index.cshtml",
+              "ViewState": "AgIAAKAAAAAAAAAAAIBJwNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T22:39:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Animal\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Animal\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Animal\\Create.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Animal\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T22:55:16.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T20:53:57.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnimalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\AnimalForm.cs",
+              "RelativeDocumentMoniker": "PetCare.PL\\AnimalForm.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\AnimalForm.cs [Design]",
+              "RelativeToolTip": "PetCare.PL\\AnimalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:27:36.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Consultation\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetCare.Web\\Views\\Consultation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.Web\\Views\\Consultation\\Index.cshtml",
+              "RelativeToolTip": "PetCare.Web\\Views\\Consultation\\Index.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAmwK4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T22:40:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PetCare.PL\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wiem\\Desktop\\DIINFO\\projet .net\\PetCare\\PetCare.PL\\MainForm.Designer.cs",
+              "RelativeToolTip": "PetCare.PL\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:26:20.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

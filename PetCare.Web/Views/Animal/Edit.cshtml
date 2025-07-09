@@ -1,0 +1,60 @@
+﻿@model PetCare.Web.Models.AnimalViewModel
+
+@{
+    ViewData["Title"] = "Modifier un Animal";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @TempData["ErrorMessage"]
+                </div>
+            }
+            <input type="hidden" asp-for="Animal.Id" />
+
+            <div class="form-group mb-3">
+                <label asp-for="Animal.Nom" class="control-label"></label>
+                <input asp-for="Animal.Nom" class="form-control" />
+                <span asp-validation-for="Animal.Nom" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Animal.Age" class="control-label"></label>
+                <input asp-for="Animal.Age" class="form-control" type="number" />
+                <span asp-validation-for="Animal.Age" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Animal.ProprietaireId" class="control-label"></label>
+                <select asp-for="Animal.ProprietaireId" asp-items="Model.Proprietaires" class="form-control">
+                    <option value="">Sélectionner un propriétaire</option>
+                </select>
+                <span asp-validation-for="Animal.ProprietaireId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Animal.TypeAnimalId" class="control-label"></label>
+                <select asp-for="Animal.TypeAnimalId" asp-items="Model.TypesAnimaux" class="form-control">
+                    <option value="">Sélectionner un type d'animal</option>
+                </select>
+                <span asp-validation-for="Animal.TypeAnimalId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Enregistrer</button>
+                <a asp-action="Index" class="btn btn-secondary">Retour</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

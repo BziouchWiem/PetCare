@@ -1,0 +1,11 @@
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\bin\Debug\net8.0\PetCare.Models.deps.json
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\bin\Debug\net8.0\PetCare.Models.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\bin\Debug\net8.0\PetCare.Models.pdb
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.AssemblyInfoInputs.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.AssemblyInfo.cs
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.csproj.CoreCompileInputs.cache
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\refint\PetCare.Models.dll
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\PetCare.Models.pdb
+C:\Users\Wiem\Desktop\DIINFO\projet .net\PetCare\PetCare.Models\obj\Debug\net8.0\ref\PetCare.Models.dll

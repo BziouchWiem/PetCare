@@ -1,0 +1,54 @@
+﻿@model PetCare.Models.Consultation
+
+@{
+    ViewData["Title"] = "Ajouter une Consultation";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <form asp-controller="Consultation" asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["ErrorMessage"] != null)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @TempData["ErrorMessage"]
+                </div>
+            }
+            <div class="form-group mb-3">
+                <label asp-for="DateConsultation" class="control-label"></label>
+                <input asp-for="DateConsultation" class="form-control" type="date" />
+                <span asp-validation-for="DateConsultation" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Diagnostic" class="control-label"></label>
+                <textarea asp-for="Diagnostic" class="form-control"></textarea>
+                <span asp-validation-for="Diagnostic" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="AnimalId" class="control-label"></label>
+                <select asp-for="AnimalId" asp-items="ViewBag.AnimalId" class="form-control">
+                    <option value="">Sélectionner un animal</option>
+                </select>
+                <span asp-validation-for="AnimalId" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="VeterinaireId" class="control-label"></label>
+                <select asp-for="VeterinaireId" asp-items="ViewBag.VeterinaireId" class="form-control">
+                    <option value="">Sélectionner un vétérinaire</option>
+                </select>
+                <span asp-validation-for="VeterinaireId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Ajouter</button>
+                <a asp-action="Index" class="btn btn-secondary">Retour</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

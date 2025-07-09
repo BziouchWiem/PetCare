@@ -1,0 +1,78 @@
+﻿<div class="welcome-hero">
+    <div class="overlay">
+        <h1 class="display-4"><i class="fas fa-paw"></i> Bienvenue sur PetCare.Web 🐾</h1>
+        <p class="lead">Votre compagnon pour gérer la santé et le bonheur de vos animaux !</p>
+        <a href="/Animal" class="btn btn-primary btn-lg mt-3 btn-hero">Voir la liste des animaux</a>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <!-- Quick Action Buttons -->
+    <div class="row text-center mb-5">
+        <div class="col-md-4">
+            <a href="/Animal/Create" class="btn btn-outline-primary btn-action">
+                <i class="fas fa-plus-circle fa-2x icon-action"></i><br>Ajouter un animal
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Consultation/Create" class="btn btn-outline-primary btn-action">
+                <i class="fas fa-calendar-check fa-2x icon-action"></i><br>Planifier une consultation
+            </a>
+        </div>
+        <div class="col-md-4">
+            <a href="/Animal" class="btn btn-outline-primary btn-action">
+                <i class="fas fa-paw fa-2x icon-action"></i><br>Mes animaux
+            </a>
+        </div>
+    </div>
+
+    <!-- Carousel for Pet Tips or Featured Pets -->
+    <div id="petCarousel" class="carousel slide mb-5" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="/images/pet-tip-1.jpg" class="d-block w-100 carousel-img" alt="Pet Tip 1">
+                <div class="carousel-caption">
+                    <h5>Conseil #1</h5>
+                    <p>Assurez-vous que votre animal a toujours de l'eau fraîche à disposition.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/images/pet-tip-2.jpg" class="d-block w-100 carousel-img" alt="Pet Tip 2">
+                <div class="carousel-caption">
+                    <h5>Conseil #2</h5>
+                    <p>Promenez votre chien au moins 30 minutes par jour pour son bien-être.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="/images/pet-tip-3.jpg" class="d-block w-100 carousel-img" alt="Pet Tip 3">
+                <div class="carousel-caption">
+                    <h5>Conseil #3</h5>
+                    <p>Planifiez des visites régulières chez le vétérinaire.</p>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#petCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#petCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <!-- About Section -->
+    <div class="welcome-section">
+        <i class="fas fa-heartbeat"></i>
+        <h2>À propos de PetCare</h2>
+        <p>
+            PetCare.Web est une application dédiée à la gestion des soins des animaux domestiques.
+            Elle vous permet de suivre les informations de vos animaux, de leurs propriétaires,
+            les types d'animaux, les vétérinaires ainsi que les consultations passées ou à venir.
+        </p>
+        <p>
+            Que vous soyez un particulier soucieux du bien-être de votre compagnon ou un professionnel du secteur vétérinaire,
+            PetCare simplifie votre quotidien avec une interface intuitive et complète.
+        </p>
+    </div>
+</div>

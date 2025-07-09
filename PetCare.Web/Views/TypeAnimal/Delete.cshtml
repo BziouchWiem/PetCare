@@ -1,0 +1,24 @@
+﻿@model PetCare.Models.TypeAnimal
+
+@{
+    ViewData["Title"] = "Supprimer un Type d'Animal";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="card-body">
+        <h4>Êtes-vous sûr de vouloir supprimer ce type d'animal ?</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Libellé</dt>
+            <dd class="col-sm-10">@Model.Libelle</dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">Supprimer</button>
+            <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+        </form>
+    </div>
+</div>
